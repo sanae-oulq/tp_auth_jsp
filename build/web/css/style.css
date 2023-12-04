@@ -1,0 +1,28 @@
+/* SPDX-License-Identifier: Your License Here */
+
+/*
+    File created on: October 10, 2023, 03:52:48
+    Author: Acer
+*/
+
+/* Primary Panel Styles */
+.panel-primary > .panel-heading {
+    background-color: #333; /* Change the background color to your preferred color */
+    border-color: #333; /* Change the border color to your preferred color */
+}
+
+.panel-primary {
+    border-color: #333; /* Change the border color to your preferred color */
+}
+
+/* Body Styles */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0; /* Remove default margin */
+    background-color: #f8f8f8; /* Set a background color for the body */
+    font-family: 'Arial', sans-serif; /* Change the font family to your preferred font */
+    color: #333; /* Set the text color to your preferred color */
+}
